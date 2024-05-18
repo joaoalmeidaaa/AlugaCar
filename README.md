@@ -24,6 +24,12 @@ Passo 3: Confirmação
 Passo 4: Retirada e Devolução
 🏁 Retire o veículo no local indicado e devolva-o no final do período de locação, conforme combinado.
 
+Tecnologias Utilizadas
+Esta plataforma foi desenvolvida utilizando as seguintes tecnologias:
+
+Frontend: ⚛️ React
+Backend: 💻 C#
+
 Contato
 Para mais informações ou suporte, entre em contato conosco:
 
